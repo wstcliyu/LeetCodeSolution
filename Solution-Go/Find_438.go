@@ -12,10 +12,10 @@ func findAnagrams(s string, p string) []int {
         if freq[c] -= 1; freq[c] >= 0 {
             count -= 1
         }
-        if count == 0 {
-            res = append(res, l)
-        }
         if r - l + 1 == len(p) {
+            if count == 0 {
+                res = append(res, l)
+            }
             if freq[rune(s[l])] += 1; freq[rune(s[l])] > 0 {
                 count += 1
             }
