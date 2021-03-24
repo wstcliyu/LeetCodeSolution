@@ -3,13 +3,12 @@ func numKLenSubstrNoRepeats(S string, K int) int {
         return 0
     }
     freq := make(map[rune]int)
-    l, r, repeat, res := 0, 0, 0, 0
-    for r < len(S) {
-        if freq[rune(S[r])] += 1; freq[rune(S[r])] == 2 {
+    l, repeat, res := 0, 0, 0
+    for r, c := range S {
+        if freq[c] += 1; freq[c] == 2 {
             repeat += 1
         }
-        r += 1
-        if r - l == K {
+        if r - l + 1 == K {
             if repeat == 0 {
                 res += 1
             }
