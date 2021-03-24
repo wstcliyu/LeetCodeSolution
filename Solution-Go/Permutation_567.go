@@ -6,16 +6,15 @@ func checkInclusion(s1 string, s2 string) bool {
     for _, c := range s1 {
         freq[c] += 1
     }
-    l, r, count := 0, 0, len(s1)
-    for r < len(s2) {
-        if freq[rune(s2[r])] -= 1; freq[rune(s2[r])] >= 0 {
+    l, count := 0, len(s1)
+    for r, c := range s2 {
+        if freq[c] -= 1; freq[c] >= 0 {
             count -= 1
         }
-        r += 1
-        if count == 0 {
-            return true
-        }
-        if r - l == len(s1) {
+        if r - l + 1 == len(s1) {
+            if count == 0 {
+                return true
+            }
             if freq[rune(s2[l])] += 1; freq[rune(s2[l])] > 0 {
                 count += 1
             }
