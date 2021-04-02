@@ -13,10 +13,11 @@
 - Backtrack
 	- Regular: 39, 40
 - Linked List
-	- Fast and slow: 234
+	- Cycle: 142(141)
+	- Reverse: 234(206)
 - Binary Tree
 	- Traversal
-		- Level-order: 102, 103, 107
+		- Level-order: 102(103, 107)
 		- Pre-order: 144
 		- Post-order: 145
 		- In-order: 94
@@ -34,6 +35,7 @@
 |  102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_102.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_102.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Binary_102.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Binary_102.go) | Binary Tree(Level-order traversal) |
 |  103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_103.md) | Medium |  |  |  | Binary Tree(Level-order traversal) |
 |  107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_107.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_107.java) |  |  | Binary Tree(Level-order traversal) |
+|  141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Linked_141.md) | Easy |  |  | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Linked_141.go) | Linked List |
 |  144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_144.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_144.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Binary_144.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Binary_144.go) | Binary Tree(Pre-order traversal) |
 |  145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_145.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_145.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Binary_145.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Binary_145.go) | Binary Tree(Post-order traversal) |
 |  159| [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_159.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_159.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_159.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_159.go) | Sliding Window(Max) |
