@@ -7,6 +7,7 @@
 - Backtrack
 	- Regular: 17, 39, 40, 46, 47, 78, 90, 216, 254
 	- HashSet: 491
+	- Memoization: 638
 - Binary Search Tree (BST)
 	- In-order successor (pred): 285, 510
 - Binary Tree
@@ -80,6 +81,7 @@
 |  510| [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_510.md) | Medium |  | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Inorder_510.py) |  | Binary Search Tree |
 |  567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutation_567.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutation_567.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Permutation_567.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Permutation_567.go) | Sliding Window(Fixed) |
 |  622| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_622.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_622.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Design_622.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Design_622.go) | Design(Deque) |
+|  638| [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shopping_638.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shopping_638.java) |  |  | Backtrack |
 |  641| [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_641.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_641.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Design_641.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Design_641.go) | Design(Deque) |
 |  692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Top_692.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Top_692.java) |  |  | Priority Queue, Trie |
 |  775| [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Global_775.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Global_775.java) |  |  | Math |
