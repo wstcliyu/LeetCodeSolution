@@ -6,10 +6,10 @@ public class Combination_39 {
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(candidates);
-        helper(res, new ArrayList<>(), candidates, 0, target);
+        helper(res, new LinkedList<>(), candidates, 0, target);
         return res;
     }
-    private static void helper(List<List<Integer>> ls, List<Integer> tempList, int[] nums, int start, int target) {
+    private static void helper(List<List<Integer>> ls, LinkedList<Integer> tempList, int[] nums, int start, int target) {
         if(target < 0)
             return;
         else if(target == 0)
@@ -18,7 +18,7 @@ public class Combination_39 {
             for(int i = start; i < nums.length; i++){
                 tempList.add(nums[i]);
                 helper(ls, tempList, nums, i, target - nums[i]); // not i + 1 because we can reuse same elements
-                tempList.remove(tempList.size() - 1);
+                tempList.removeLast();
             }
         }
         // My solution similar as most voted, also very good
