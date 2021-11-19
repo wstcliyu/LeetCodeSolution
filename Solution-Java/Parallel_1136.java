@@ -82,3 +82,63 @@ class Solution {
     private boolean isCycle = false;
     private int res = 0;
 }
+
+
+
+
+// Rewrite DFS
+class Solution {
+    private Map<Integer, List<Integer>> graph = new HashMap<>();
+    private State[] states;
+    private int[] heights;
+    
+    enum State {
+        UNVISITED,
+        VISITING,
+        VISITED
+    }
+    
+    private void init(int n, int[][] relations) {
+        states = new State[n + 1];
+        Arrays.fill(states, State.UNVISITED);
+        heights = new int[n + 1];
+        Arrays.fill(heights, 1);
+        for (int[] r : relations) {
+            graph.computeIfAbsent(r[0], k -> new ArrayList<>()).add(r[1]);
+        }
+    }
+    
+    private int dfs(int i) {
+        if (states[i] == State.VISITING) {
+            heights[i] = -1;
+            return -1;
+        } else if (states[i] == State.UNVISITED) {
+            states[i] = State.VISITING;
+            int height = 1;
+            if (graph.containsKey(i)) {
+                for (int neighbor : graph.get(i)) {
+                    int neighborHeight = dfs(neighbor);
+                    if (neighborHeight == -1) {
+                        heights[i] = -1;
+                        return -1;
+                    } else {
+                        heights[i] = Math.max(heights[i], 1 + neighborHeight);
+                    }
+                }
+            }
+        }
+        states[i] = State.VISITED;
+        return heights[i];
+    }
+    
+    public int minimumSemesters(int n, int[][] relations) {
+        init(n, relations);
+        int res = 1;
+        for (int i = 1; i <= n; i++) {
+            int height = dfs(i);
+            if (height == -1) return -1;
+            res = Math.max(res, height);
+        }
+        return res;
+    }
+}
