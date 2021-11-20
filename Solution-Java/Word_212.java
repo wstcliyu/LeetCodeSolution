@@ -1,5 +1,4 @@
 class Solution {
-    
     class TrieNode {
         TrieNode[] next = new TrieNode[26];
         boolean isEnd = false;
@@ -20,27 +19,26 @@ class Solution {
         return root;
     }
     
-    private void dfs(char[][] board, TrieNode root, List<String> res, StringBuilder sb, int i, int j) {
-        char c = board[i][j];
-        if (c == '#' || root.next[c - 'a'] == null) {
+    private void dfs(char[][] board, int i, int j, List<String> res, TrieNode root, StringBuilder sb) {
+        if (i < 0 || j < 0 || i == board.length || j == board[0].length) {
             return;
         }
-        board[i][j] = '#';
-        sb.append(c);
+        char c = board[i][j];
+        if (board[i][j] == '#' || root.next[board[i][j] - 'a'] == null) {
+            return;
+        }
         root = root.next[c - 'a'];
+        sb.append(c);
+        board[i][j] = '#';
         if (root.isEnd) {
             res.add(sb.toString());
             root.isEnd = false; // avoid duplicate by removing word from dictionary
         }
         for (int[] d : dirs) {
-            int x = i + d[0];
-            int y = j + d[1];
-            if (x >= 0 && y >= 0 && x < board.length && y < board[0].length) {
-                dfs(board, root, res, sb, x, y);
-            }
+            dfs(board, i + d[0], j + d[1], res, root, sb);
         }
-        board[i][j] = c;
-        sb.deleteCharAt(sb.length() - 1);
+        sb.deleteCharAt(sb.length() - 1); // corresponding to sb.append(c)
+        board[i][j] = c; // corresponding to board[i][j] = '#'
     }
     
     private int[][] dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
@@ -50,7 +48,7 @@ class Solution {
         List<String> res = new ArrayList<>();
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
-                dfs(board, root, res, new StringBuilder(), i, j);
+                dfs(board, i, j, res, root, new StringBuilder());
             }
         }
         return res;
