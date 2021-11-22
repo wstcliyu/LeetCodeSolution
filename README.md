@@ -28,7 +28,8 @@
 	- Memoization: 329
 - Linked List
 	- Cycle: 142(141)
-	- Reverse: 234(206)
+	- Reverse: 234(206), 92, 143
+	- Merge: 21(23)
 - Math
 	- Regular: 775
 - Mono Queue/Stack
@@ -56,6 +57,7 @@
 |:---:|:------|:-------:|:----------:|:----:|:------:|:--:|:------|
 |    3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_3.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_3.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_3.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_3.go) | Sliding Window(Max) |
 |   17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Letter_17.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Letter_17.java) |  |  | Backtrack |
+|   21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_21.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_21.java) |  |  | Linked List |
 |   30| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Substring_30.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Substring_30.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Substring_30.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Substring_30.go) | Sliding Window(Fixed) |
 |   39| [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Combination_39.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Combination_39.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Combination_39.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Combination_39.go) | Backtrack |
 |   40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Combination_40.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Combination_40.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Combination_40.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Combination_40.go) | Backtrack |
