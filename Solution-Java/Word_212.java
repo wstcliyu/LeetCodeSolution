@@ -20,25 +20,23 @@ class Solution {
     }
     
     private void dfs(char[][] board, int i, int j, List<String> res, TrieNode root, StringBuilder sb) {
-        if (i < 0 || j < 0 || i == board.length || j == board[0].length) {
-            return;
-        }
         char c = board[i][j];
-        if (board[i][j] == '#' || root.next[board[i][j] - 'a'] == null) {
-            return;
-        }
-        root = root.next[c - 'a'];
-        sb.append(c);
         board[i][j] = '#';
+        sb.append(c);
+        root = root.next[c - 'a'];
         if (root.isEnd) {
             res.add(sb.toString());
-            root.isEnd = false; // avoid duplicate by removing word from dictionary
+            root.isEnd = false;
         }
         for (int[] d : dirs) {
-            dfs(board, i + d[0], j + d[1], res, root, sb);
+            int x = i + d[0], y = j + d[1];
+            if (x >= 0 && x < board.length && y >= 0 && y < board[0].length 
+                && board[x][y] != '#' && root.next[board[x][y] - 'a'] != null) {
+                dfs(board, i + d[0], j + d[1], res, root, sb);
+            }
         }
-        sb.deleteCharAt(sb.length() - 1); // corresponding to sb.append(c)
-        board[i][j] = c; // corresponding to board[i][j] = '#'
+        sb.deleteCharAt(sb.length() - 1);
+        board[i][j] = c;
     }
     
     private int[][] dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
@@ -48,7 +46,9 @@ class Solution {
         List<String> res = new ArrayList<>();
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
-                dfs(board, i, j, res, root, new StringBuilder());
+                if (board[i][j] != '#' && root.next[board[i][j] - 'a'] != null) {
+                    dfs(board, i, j, res, root, new StringBuilder());
+                }
             }
         }
         return res;
