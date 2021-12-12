@@ -30,7 +30,7 @@
 		- Level-order: 102(103, 107)
 		- Pre-order: 144
 		- Post-order: 145
-		- In-order: 94, 897
+		- In-order: 94
 	- App
 		- Pre-order: 257, 404, 671, 872
 		- Post-order: 104, 1022, 1026, 1302
@@ -40,6 +40,8 @@
 		- 235, 236(1676), 1123(865), 1644, 1650(160)
 	- Path Sum
 		- 112
+	- Flatten
+		- 114(Pre), 897(In)
 - Bit Manipulation
 	- Add Two Numbers: 67, 371
 	- Regular: 136，137, 260
@@ -138,6 +140,7 @@
 |  104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_104.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_104.java) |  |  | Binary Tree |
 |  107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_107.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_107.java) |  |  | Binary Tree(Level-order traversal) |
 |  112| [Path Sum](https://leetcode.com/problems/path-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Path_112.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Path_112.java) |  |  | Binary Tree |
+|  114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Flatten_114.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Flatten_114.java) |  |  | Binary Tree |
 |  125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_125.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_125.java) |  |  | Two Pointers |
 |  136| [Single Number](https://leetcode.com/problems/single-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_136.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_136.java) |  |  | Bit Manipulation |
 |  137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_137.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_137.java) |  |  | Bit Manipulation |
