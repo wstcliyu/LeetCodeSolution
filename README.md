@@ -55,6 +55,7 @@
 - Dynamic Programming (DP)
 	- 2D: 1738
 	- Jump Game: 45, 55
+	- Regular: 63
 - Greedy
 	- Regular: 280, 942
 - Hash Table
@@ -132,6 +133,7 @@
 |   46| [Permutations](https://leetcode.com/problems/permutations/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_46.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_46.java) |  |  | Backtrack |
 |   47| [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_47.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_47.java) |  |  | Backtrack |
 |   55| [Jump Game](https://leetcode.com/problems/jump-game/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_55.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_55.java) |  |  | Dynamic Programming, Greedy |
+|   63| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Unique_63.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Unique_63.java) |  |  | Dynamic Programming |
 |   66| [Plus One](https://leetcode.com/problems/plus-one/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Plus_66.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Plus_66.java) |  |  | Add Two Numbers |
 |   67| [Add Binary](https://leetcode.com/problems/add-binary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_67.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_67.java) |  |  | Add Two Numbers |
 |   70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Climbing_70.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Climbing_70.java) |  |  | Math |
