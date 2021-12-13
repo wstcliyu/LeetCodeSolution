@@ -102,6 +102,7 @@
 	- Regular: 208, 211, 212, 692
 - Two Pointers
 	- Regular: 11, 27, 1570
+	- Sort Colors: 75
 	- Palindrome/Reverse: 125(345, 680)
 	- Next Permutation: 31
 	- Partition: 763
@@ -132,6 +133,7 @@
 |   55| [Jump Game](https://leetcode.com/problems/jump-game/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_55.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_55.java) |  |  | Dynamic Programming, Greedy |
 |   66| [Plus One](https://leetcode.com/problems/plus-one/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Plus_66.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Plus_66.java) |  |  | Add Two Numbers |
 |   67| [Add Binary](https://leetcode.com/problems/add-binary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_67.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_67.java) |  |  | Add Two Numbers |
+|   75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_75.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_75.java) |  |  | Two Pointers |
 |   76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_76.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_76.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Minimum_76.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Minimum_76.go) | Sliding Window(Min) |
 |   78| [Subsets](https://leetcode.com/problems/subsets/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Subsets_78.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Subsets_78.java) |  |  | Backtrack, Bitmask |
 |   79| [Word Search](https://leetcode.com/problems/word-search/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Word_79.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Word_79.java) |  |  | DFS |
