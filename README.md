@@ -65,6 +65,7 @@
 - Interval
 	- Merge: 56, 57
 	- Intersection: 986
+	- [Max Overlap](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/IntervalMaxOverlap.java)
 	- Range Addition: 370
 	- Sort (Greedy): 452, 646
 	- Priority Queue: 253, 759
