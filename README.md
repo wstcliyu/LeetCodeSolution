@@ -17,7 +17,7 @@
 	- Regular: 200
 	- Topological Sort: 310
 - BFS & DFS
-	- Regular: 200, 417, 547, 733, 785, 863
+	- Regular: 200, 417, 547, 733, 785, 863, 934
 	- Jump Game: 1306, 1345
 - Binary Search Tree (BST)
 	- In-order successor (pred): 285, 510
@@ -255,6 +255,7 @@
 |  897| [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Increasing_897.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Increasing_897.java) |  |  | Binary Tree |
 |  900| [RLE Iterator](https://leetcode.com/problems/rle-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/RLE_900.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/RLE_900.java) |  |  | Iterator |
 |  912| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_912.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_912.java) |  |  | Sort |
+|  934| [Shortest Bridge(https://leetcode.com/problems/shortest-bridge/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_934.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_934.java) |  |  | DFS, BFS |
 |  942| [DI String Match](https://leetcode.com/problems/di-string-match/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/DI_942.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/DI_942.java) |  |  | Greedy |
 |  973| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/K_973.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/K_973.java) |  |  | Quick Select, Heap |
 |  986| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Interval_986.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Interval_986.java) |  |  | Interval |
