@@ -17,7 +17,7 @@
 	- Regular: 200
 	- Topological Sort: 310
 - BFS & DFS
-	- Regular: 200, 417, 547, 733, 785
+	- Regular: 200, 417, 547, 733, 785, 863
 	- Jump Game: 1306, 1345
 - Binary Search Tree (BST)
 	- In-order successor (pred): 285, 510
@@ -249,6 +249,7 @@
 |  775| [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Global_775.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Global_775.java) |  |  | Math |
 |  785| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Is_785.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Is_785.java) |  |  | DFS, BFS |
 |  802| [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_802.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_802.java) |  |  | Topological Sort |
+|  863| [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/All_863.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/All_863.java) |  |  | DFS, BFS |
 |  865| [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Smallest_865.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Lowest_1123.java) |  |  | Lowest Common Ancestor |
 |  872| [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Leaf_872.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Leaf_872.java) |  |  | Binary Tree |
 |  897| [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Increasing_897.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Increasing_897.java) |  |  | Binary Tree |
