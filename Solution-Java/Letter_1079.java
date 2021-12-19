@@ -1,3 +1,8 @@
+// My understanding:
+// We need to get all possibilities of length [1, n]
+// Suppose we have all possibilities of length [1, n - 1]
+// Then we prepend one letter to each possibility and we get all possibilities of length [2, n]
+// Finally we just need to add all possibilities of length 1
 class Solution {
     public int numTilePossibilities(String tiles) {
         int[] counts = new int[26];
@@ -9,9 +14,8 @@ class Solution {
         int sum = 0;
         for (int i = 0; i < counts.length; i++) {
             if (counts[i] == 0) continue;
-            sum++;
             counts[i]--;
-            sum += backtrack(counts);
+            sum += backtrack(counts) + 1;
             counts[i]++;
         }
         return sum;
