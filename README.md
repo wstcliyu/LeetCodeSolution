@@ -82,6 +82,8 @@
 	- Intersection: 160(1650)
 	- Trick: 237
 	- Doubly Linked List (DDL): 146, 1472
+- Longest Increasing Subsequence (LIS)
+	- 300, 491
 - Math
 	- Regular: 775
 	- Fibonacci: 70
