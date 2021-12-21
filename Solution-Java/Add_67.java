@@ -37,3 +37,22 @@ class Solution {
         return x.toString(2);
     }
 }
+
+
+
+
+// Notes about Integer and BigInteger
+
+BigInteger bi = new BigInteger(String val, int radix)
+int intV = bi.intValue()
+long longV = bi.longValue()
+String val = bi.toString(int radix)
+
+Integer in = Integer.valueOf(int i)
+Integer in = Integer.valueOf(String s)
+Integer in = Integer.valueOf(String s, int radix)
+int intV = in.intValue()
+long longV = in.longValue()
+String s = in.toString()
+String s = Integer.toString(int i)
+String s = Integer.toString(int i, int radix)
