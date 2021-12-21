@@ -1,3 +1,20 @@
+// My solution: Same idea as 337. House Robber III
+class Solution {
+    public int rob(int[] nums) {
+        int rob = 0, notrob = 0;
+        for (int num : nums) {
+            int a = num + notrob;
+            int b = Math.max(rob, notrob);
+            rob = a;
+            notrob = b;
+        }
+        return Math.max(rob, notrob);
+    }
+}
+
+
+
+
 // Approach 1: Recursion with Memoization
 class Solution {
     
