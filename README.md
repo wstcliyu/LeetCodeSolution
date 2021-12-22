@@ -84,7 +84,7 @@
 	- Merge: 21(23), 148
 	- Intersection: 160(1650)
 	- Trick: 237
-	- Doubly Linked List (DDL): 146, 1472
+	- Doubly Linked List (DLL): 146, 716, 1472
 - Longest Increasing Subsequence (LIS)
 	- 300, 491, 873, 1027, 2111
 - Math
@@ -109,7 +109,8 @@
 - Stack
 	- Regular: 394
 	- Count Layer: 856
-	- Two Stack: 1472
+	- Two Stacks: 716, 1472
+	- Flatten Iterator: 341
 	- Implement by Queue: 225
 - Topological Sort
 	- Regular: 207, 210, 269, 329, 1136
@@ -257,6 +258,7 @@
 |  705| [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_705.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_705.java) |  |  | Hash Table |
 |  706| [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_706.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_706.java) |  |  | Hash Table |
 |  712| [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_712.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_712.java) |  |  | Dynamic Programming |
+|  716| [Max Stack](https://leetcode.com/problems/max-stack/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_716.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_716.java) |  |  | Stack, DLL |
 |  733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Flood_733.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Flood_733.java) |  |  | DFS, BFS |
 |  759| [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Employee_759.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Employee_759.java) |  |  | Interval |
 |  763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Partition_763.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Partition_763.java) |  |  | Two Pointers |
