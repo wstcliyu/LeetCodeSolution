@@ -105,7 +105,7 @@
 - Reservoir Sampling
 	- Regular: 382, 398
 - Simulation
-	- 73
+	- 73, 289
 - Sliding Window
 	- Fixed: 30, 438, 567, 1100
 	- Max: 3, 159, 340, 424, 1004
@@ -225,6 +225,7 @@
 |  284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Peeking_284.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Peeking_284.java) |  |  | Iterator |
 |  285| [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_285.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Inorder_285.java) |  |  | Binary Search Tree |
 |  287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_287.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_287.java) |  |  | Find Number |
+|  289| [Game of Life](https://leetcode.com/problems/game-of-life/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Game_289.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Game_289.java) |  |  | Simulation |
 |  300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_300.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_300.java) |  |  | LIS |
 |  305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_305.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_305.java) |  |  | Union Find |
 |  310| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_310.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_310.java) |  |  | Topological Sort |
