@@ -92,6 +92,7 @@
 	- 300, 491, 873, 1027, 2111
 - Math
 	- Regular: 775
+	- Logical: 277
 	- Fibonacci: 70
 - Mono Queue/Stack
 	- Mono Queue: 239
@@ -216,6 +217,7 @@
 |  260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_260.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_260.java) |  |  | Bit Manipulation |
 |  268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Missing_268.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Missing_268.java) |  |  | Find Number |
 |  269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Alien_269.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Alien_269.java) |  |  | Topological Sort |
+|  277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_277.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_277.java) |  |  | Math |
 |  280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Wiggle_280.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Wiggle_280.java) |  |  | Greedy |
 |  284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Peeking_284.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Peeking_284.java) |  |  | Iterator |
 |  285| [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_285.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Inorder_285.java) |  |  | Binary Search Tree |
