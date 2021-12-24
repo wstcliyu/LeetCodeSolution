@@ -127,7 +127,7 @@
 - TreeMap
 	- App: 1146
 - Trick
-	- 277, 795
+	- 277, 792, 795
 	- Max Chunks To Make Sorted: 768, 769
 - Trie
 	- Regular: 208, 211, 212, 692
@@ -293,6 +293,7 @@
 |  769| [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_769.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_769.java) |  |  | Trick |
 |  775| [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Global_775.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Global_775.java) |  |  | Math |
 |  785| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Is_785.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Is_785.java) |  |  | DFS, BFS |
+|  792| [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_792.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_792.java) |  |  | Trick |
 |  795| [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_795.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_795.java) |  |  | Trick |
 |  802| [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_802.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_802.java) |  |  | Topological Sort |
 |  856| [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Score_856.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Score_856.java) |  |  | Stack |
