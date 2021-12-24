@@ -67,6 +67,7 @@
 - Hash Table
 	- App: 548, 697
 	- Design: 706(705 BST)
+	- Get Random: 380, 381
 - Interval
 	- Merge: 56, 57
 	- Intersection: 986
@@ -243,6 +244,7 @@
 |  347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Top_347.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Top_347.java) |  |  | Quick Select, Heap, TreeMap |
 |  370| [Range Addition](https://leetcode.com/problems/range-addition/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Range_370.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Range_370.java) |  |  | Interval |
 |  371| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sum_371.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sum_371.java) |  |  | Bit Manipulation |
+|  380| [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Insert_380.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Insert_380.java) |  |  | Hash Table |
 |  382| [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Linked_382.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Linked_382.java) |  |  | Reservoir Sampling |
 |  394| [Decode String](https://leetcode.com/problems/decode-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Decode_394.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Decode_394.java) |  |  | Stack |
 |  398| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_398.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_398.java) |  |  | Reservoir Sampling |
