@@ -112,6 +112,7 @@
 	- Regular: 382, 398
 - Simulation
 	- 73, 289
+	- Spiral Matrix: 54
 - Sliding Window
 	- Fixed: 30, 438, 567, 1100
 	- Max: 3, 159, 340, 424, 1004
@@ -167,6 +168,7 @@
 |   45| [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_45.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_45.java) |  |  | Dynamic Programming, Greedy |
 |   46| [Permutations](https://leetcode.com/problems/permutations/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_46.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_46.java) |  |  | Backtrack |
 |   47| [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_47.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_47.java) |  |  | Backtrack |
+|   54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Spiral_54.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Spiral_54.java) |  |  | Simulation |
 |   55| [Jump Game](https://leetcode.com/problems/jump-game/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_55.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_55.java) |  |  | Dynamic Programming, Greedy |
 |   56| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_56.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_56.java) |  |  | Interval |
 |   57| [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Insert_57.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Insert_57.java) |  |  | Interval |
