@@ -49,7 +49,7 @@
 		- 222, 958
 - Bit Manipulation
 	- Add Two Numbers: 67, 371
-	- Regular: 136，137, 260
+	- Regular: 136，137, 260, 421
 - Bitmask
 	- App: 78(90)
 - Design
@@ -260,6 +260,7 @@
 |  404| [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sum_404.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sum_404.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Sum_404.py) |  | Binary Tree(App: Pre-order) |
 |  415| [Add Strings](https://leetcode.com/problems/add-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_415.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_415.java) |  |  | Add Two Numbers |
 |  417| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Pacific_417.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Pacific_417.java) |  |  | DFS, BFS |
+|  421| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_421.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_421.java) |  |  | Bit Manipulation |
 |  424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_424.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_424.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_424.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_424.go) | Sliding Window(Max) |
 |  436| [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_436.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_436.java) |  |  | Interval |
 |  438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_438.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_438.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Find_438.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Find_438.go) | Sliding Window(Fixed) |
