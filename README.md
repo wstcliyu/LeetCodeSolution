@@ -91,6 +91,7 @@
 	- Reverse: 234(206), 92, 143
 	- Merge: 21(23), 148
 	- Intersection: 160(1650)
+	- Rotate: 61
 	- Trick: 237
 	- Doubly Linked List (DLL): 146, 716, 1472
 - Longest Increasing Subsequence (LIS)
@@ -175,6 +176,7 @@
 |   56| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_56.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_56.java) |  |  | Interval |
 |   57| [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Insert_57.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Insert_57.java) |  |  | Interval |
 |   59| [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Spiral_59.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Spiral_59.java) |  |  | Simulation |
+|   61| [Rotate List](https://leetcode.com/problems/rotate-list/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rotate_61.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rotate_61.java) |  |  | Linked List |
 |   63| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Unique_63.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Unique_63.java) |  |  | Dynamic Programming |
 |   66| [Plus One](https://leetcode.com/problems/plus-one/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Plus_66.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Plus_66.java) |  |  | Add Two Numbers |
 |   67| [Add Binary](https://leetcode.com/problems/add-binary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_67.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_67.java) |  |  | Add Two Numbers |
