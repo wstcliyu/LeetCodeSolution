@@ -1,5 +1,6 @@
 // Third voted solution: Segment Tree with lazy propagation (general case of K-booking)
 // https://leetcode.com/problems/my-calendar-ii/discuss/109528/nlogd-Java-solution-using-segment-tree-with-lazy-propagation-(for-the-general-case-of-K-booking)
+// Time: O(Nlgd), d is the range (in this case d = 1_000_000_000), N is the number of calls to book() method
 class MyCalendarTwo {
 
 	class SegmentTreeNode {
@@ -68,6 +69,7 @@ class MyCalendarTwo {
 
 
 // Approach #2: Boundary Count
+// Time: O(N^2), N is the number of call to book() method
 class MyCalendarTwo {
     TreeMap<Integer, Integer> delta;
 
@@ -85,8 +87,8 @@ class MyCalendarTwo {
             if (active >= 3) {
                 delta.put(start, delta.get(start) - 1);
                 delta.put(end, delta.get(end) + 1);
-                if (delta.get(start) == 0)
-                    delta.remove(start);
+                delta.remove(start, 0);
+                delta.remove(end, 0);
                 return false;
             }
         }
