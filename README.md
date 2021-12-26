@@ -115,7 +115,7 @@
 - Reservoir Sampling
 	- Regular: 382, 398
 - Segment Tree
-	- 731
+	- 731, 732
 - Simulation
 	- 73, 289
 	- Rotate: 48, 189, 1861
@@ -138,7 +138,7 @@
 	- BFS: 310
 	- Reverse: 802
 - TreeMap
-	- App: 729, 731, 1146
+	- App: 729, 731, 732, 1146
 - Trick
 	- 277, 792, 795
 	- Max Chunks To Make Sorted: 768, 769
@@ -317,6 +317,7 @@
 |  716| [Max Stack](https://leetcode.com/problems/max-stack/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_716.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_716.java) |  |  | Stack, DLL |
 |  729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/My_729.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/My_729.java) |  |  | TreeMap |
 |  731| [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/My_731.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/My_731.java) |  |  | TreeMap, Segment Tree |
+|  732| [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/My_732.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/My_732.java) |  |  | TreeMap, Segment Tree |
 |  733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Flood_733.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Flood_733.java) |  |  | DFS, BFS |
 |  759| [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Employee_759.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Employee_759.java) |  |  | Interval |
 |  763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Partition_763.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Partition_763.java) |  |  | Two Pointers |
