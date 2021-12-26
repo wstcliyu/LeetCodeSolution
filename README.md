@@ -17,6 +17,7 @@
 	- Topological Sort: 310
 - BFS & DFS
 	- Regular: 200, 417, 547, 733, 785, 863, 934
+	- The Maze: 490, 505
 	- Jump Game: 1306, 1345
 - Binary Search Tree (BST)
 	- In-order successor (pred): 285, 510
@@ -295,6 +296,7 @@
 |  470| [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Implement_470.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Implement_470.java) |  |  | Rejection Sampling |
 |  478| [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Generate_478.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Generate_478.java) |  |  | Rejection Sampling |
 |  480| [Sliding Windown Median](https://leetcode.com/problems/sliding-window-median/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sliding_480.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sliding_480.java) |  |  | Priority Queue |
+|  490| [The Maze](https://leetcode.com/problems/the-maze/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_490.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_490.java) |  |  | BFS & DFS |
 |  491| [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Increasing_491.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Increasing_491.java) |  |  | Backtrack, LIS |
 |  510| [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_510.md) | Medium |  | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Inorder_510.py) |  | Binary Search Tree |
 |  547| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_547.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_547.java) |  |  | DFS, BFS, Union Find |
