@@ -17,7 +17,7 @@
 	- Topological Sort: 310
 - BFS & DFS
 	- Regular: 200, 417, 547, 733, 785, 863, 934
-	- The Maze: 490, 505
+	- The Maze: 490, 505(Dijkstra)
 	- Jump Game: 1306, 1345
 - Binary Search Tree (BST)
 	- In-order successor (pred): 285, 510
@@ -298,6 +298,7 @@
 |  480| [Sliding Windown Median](https://leetcode.com/problems/sliding-window-median/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sliding_480.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sliding_480.java) |  |  | Priority Queue |
 |  490| [The Maze](https://leetcode.com/problems/the-maze/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_490.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_490.java) |  |  | BFS & DFS |
 |  491| [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Increasing_491.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Increasing_491.java) |  |  | Backtrack, LIS |
+|  505| [The Maze II](https://leetcode.com/problems/the-maze-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_505.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_505.java) |  |  | BFS & DFS, Dijkstra |
 |  510| [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_510.md) | Medium |  | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Inorder_510.py) |  | Binary Search Tree |
 |  547| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_547.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_547.java) |  |  | DFS, BFS, Union Find |
 |  548| [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_548.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_548.java) |  |  | Hash Table |
