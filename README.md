@@ -50,6 +50,8 @@
 		- 114(Pre), 897(In)
 	- Complete Binary Tree
 		- 222, 958
+	- Trick
+		- 156
 - Bit Manipulation
 	- Add Two Numbers: 67, 371
 	- Regular: 136，137, 260, 421
@@ -218,6 +220,7 @@
 |  146| [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/LRU_146.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/LRU_146.java) |  |  | DLL |
 |  148| [Sort List](https://leetcode.com/problems/sort-list/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_148.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_148.java) |  |  | Linked List |
 |  155| [Min Stack](https://leetcode.com/problems/min-stack/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Min_155.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Min_155.java) |  |  | Stack |
+|  156| [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_156.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_156.java) |  |  | Binary Tree |
 |  159| [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_159.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_159.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_159.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_159.go) | Sliding Window(Max) |
 |  160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Intersection_160.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Intersection_160.java) |  |  | Linked List |
 |  163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Missing_163.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Missing_163.java) |  |  | Interval |
