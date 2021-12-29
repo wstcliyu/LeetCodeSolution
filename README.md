@@ -120,6 +120,7 @@
 	- Regular: 215, 347, 973
 - Random
 	- Binary Search: 497, 528
+	- 710
 - Recursion
 	- 95, 247
 - Rejection Sampling
@@ -343,6 +344,7 @@
 |  697| [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Degree_697.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Degree_697.java) |  |  | Hash Table |
 |  705| [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_705.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_705.java) |  |  | Hash Table |
 |  706| [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_706.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_706.java) |  |  | Hash Table |
+|  710| [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_710.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_710.java) |  |  | Random |
 |  712| [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_712.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_712.java) |  |  | Dynamic Programming |
 |  716| [Max Stack](https://leetcode.com/problems/max-stack/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_716.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_716.java) |  |  | Stack, DLL |
 |  729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/My_729.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/My_729.java) |  |  | TreeMap |
