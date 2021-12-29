@@ -159,7 +159,7 @@
 - Trie
 	- Regular: 208, 211, 212, 692
 - Two Pointers
-	- Regular: 11, 27, 1570
+	- Regular: 11, 27, 408, 1570
 	- Sort Colors: 75
 	- Palindrome/Reverse: 125(345, 680)
 	- Next Permutation: 31
@@ -303,6 +303,7 @@
 |  394| [Decode String](https://leetcode.com/problems/decode-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Decode_394.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Decode_394.java) |  |  | Stack |
 |  398| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_398.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_398.java) |  |  | Reservoir Sampling |
 |  404| [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sum_404.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sum_404.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Sum_404.py) |  | Binary Tree(App: Pre-order) |
+|  408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_408.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_408.java) |  |  | Two pointers |
 |  415| [Add Strings](https://leetcode.com/problems/add-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_415.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_415.java) |  |  | Add Two Numbers |
 |  417| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Pacific_417.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Pacific_417.java) |  |  | DFS, BFS |
 |  421| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_421.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_421.java) |  |  | Bit Manipulation |
