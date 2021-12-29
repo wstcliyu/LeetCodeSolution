@@ -65,7 +65,7 @@
 	- Regular: 79, 200
 	- Memoization: 329, 638
 - Dynamic Programming (DP)
-	- Regular: 63
+	- Regular: 63, 361
 	- 2D: 1738
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
@@ -283,6 +283,7 @@
 |  345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Reverse_345.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Reverse_345.java) |  |  | Two Pointers |
 |  347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Top_347.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Top_347.java) |  |  | Quick Select, Heap, TreeMap |
 |  360| [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_360.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_360.java) |  |  | Two Pointers |
+|  361| [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Bomb_361.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Bomb_361.java) |  |  | Dynamic Programming |
 |  364| [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Nested_364.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Nested_364.java) |  |  | BFS & DFS |
 |  370| [Range Addition](https://leetcode.com/problems/range-addition/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Range_370.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Range_370.java) |  |  | Interval |
 |  371| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sum_371.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sum_371.java) |  |  | Bit Manipulation |
