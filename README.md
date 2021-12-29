@@ -80,6 +80,7 @@
 	- Design: 706(705 BST)
 	- Get Random: 380, 381
 	- Geometry: 149
+	- Group Anagram: 49
 - Interval
 	- Merge: 56, 57
 	- Intersection: 986
@@ -192,6 +193,7 @@
 |   46| [Permutations](https://leetcode.com/problems/permutations/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_46.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_46.java) |  |  | Backtrack |
 |   47| [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_47.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_47.java) |  |  | Backtrack |
 |   48| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rotate_48.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rotate_48.java) |  |  | Simulation |
+|   49| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Group_49.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Group_49.java) |  |  | Hash Table |
 |   53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_53.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_53.java) |  |  | Divide and Conquer |
 |   54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Spiral_54.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Spiral_54.java) |  |  | Simulation |
 |   55| [Jump Game](https://leetcode.com/problems/jump-game/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_55.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_55.java) |  |  | Dynamic Programming, Greedy |
