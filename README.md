@@ -131,7 +131,7 @@
 - Segment Tree
 	- 731, 732
 - Simulation
-	- 73, 289
+	- 73, 289, 498
 	- Rotate: 48, 189, 1861
 	- Spiral Matrix: 54, 59, 885
 - Sliding Window
@@ -324,6 +324,7 @@
 |  490| [The Maze](https://leetcode.com/problems/the-maze/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_490.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_490.java) |  |  | BFS & DFS |
 |  491| [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Increasing_491.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Increasing_491.java) |  |  | Backtrack, LIS |
 |  497| [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_497.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_497.java) |  |  | Random |
+|  498| [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Diagonal_498.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Diagonal_498.java) |  |  | Simulation |
 |  499| [The Maze III](https://leetcode.com/problems/the-maze-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_499.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_499.java) |  |  | BFS & DFS, Dijkstra |
 |  505| [The Maze II](https://leetcode.com/problems/the-maze-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_505.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_505.java) |  |  | BFS & DFS, Dijkstra |
 |  510| [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_510.md) | Medium |  | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Inorder_510.py) |  | Binary Search Tree |
