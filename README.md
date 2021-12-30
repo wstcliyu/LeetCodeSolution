@@ -74,7 +74,7 @@
 - Find Number
 	- 41, 268, 287, 442
 - Greedy
-	- Regular: 280, 942
+	- Regular: 280, 670, 942
 - Hash Table
 	- App: 548, 697
 	- Design: 706(705 BST)
@@ -342,6 +342,7 @@
 |  646| [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_646.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_646.java) |  |  | Interval |
 |  653| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Two_653.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Two_653.java) |  |  | Two Sum |
 |  662| [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_662.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_662.java) |  |  | Binary Tree |
+|  670| [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_670.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_670.java) |  |  | Greedy |
 |  671| [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Second_671.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Second_671.java) |  |  | Binary Tree |
 |  680| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_680.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_680.java) |  |  | Two Pointers |
 |  684| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Redundant_684.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Redundant_684.java) |  |  | Union Find |
