@@ -141,7 +141,7 @@
 - Sort
 	- Heap/Quick/Merge/Insertion/Selection/Bubble: 912
 - Stack
-	- Regular: 394, 439
+	- Regular: 71, 394, 439
 	- Min Stack: 155
 	- Count Layer: 856
 	- Two Stacks: 232, 716, 1472
@@ -205,6 +205,7 @@
 |   66| [Plus One](https://leetcode.com/problems/plus-one/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Plus_66.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Plus_66.java) |  |  | Add Two Numbers |
 |   67| [Add Binary](https://leetcode.com/problems/add-binary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_67.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_67.java) |  |  | Add Two Numbers |
 |   70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Climbing_70.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Climbing_70.java) |  |  | Math |
+|   71| [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Simplify_71.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Simplify_71.java) |  |  | Stack |
 |   72| [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Edit_72.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Edit_72.java) |  |  | Dynamic Programming |
 |   73| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Set_73.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Set_73.java) |  |  | Simulation |
 |   75| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_75.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_75.java) |  |  | Two Pointers |
