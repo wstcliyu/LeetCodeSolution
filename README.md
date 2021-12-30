@@ -9,7 +9,7 @@
 	- String: 67, 415
 	- Array: 66, 989
 - Backtrack
-	- Regular: 17, 39(40), 46(47), 78(90), 216, 254
+	- Regular: 17, 22, 39(40), 46(47), 78(90), 216, 254
 	- HashSet: 491
 	- Count: 248, 1079
 - BFS
@@ -183,6 +183,7 @@
 |   17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Letter_17.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Letter_17.java) |  |  | Backtrack |
 |   20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_20.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_20.java) |  |  | Stack |
 |   21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_21.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_21.java) |  |  | Linked List |
+|   22| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Generate_22.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Generate_22.java) |  |  | Backtrack |
 |   23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_23.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_23.java) |  |  | Linked List |
 |   27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Remove_27.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Remove_27.java) |  |  | Two Pointers |
 |   30| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Substring_30.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Substring_30.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Substring_30.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Substring_30.go) | Sliding Window(Fixed) |
