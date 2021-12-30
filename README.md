@@ -142,6 +142,7 @@
 	- Heap/Quick/Merge/Insertion/Selection/Bubble: 912
 - Stack
 	- Regular: 71, 394, 439
+	- Parentheses: 20
 	- Min Stack: 155
 	- Count Layer: 856
 	- Two Stacks: 232, 716, 1472
@@ -180,6 +181,7 @@
 |   10| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Regular_10.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Regular_10.java) |  |  | DP, Regex |
 |   11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Container_11.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Container_11.java) |  |  | Two Pointers |
 |   17| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Letter_17.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Letter_17.java) |  |  | Backtrack |
+|   20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_20.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_20.java) |  |  | Stack |
 |   21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_21.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_21.java) |  |  | Linked List |
 |   23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Merge_23.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Merge_23.java) |  |  | Linked List |
 |   27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Remove_27.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Remove_27.java) |  |  | Two Pointers |
