@@ -70,6 +70,7 @@
 - Dynamic Programming (DP)
 	- Regular: 63, 361
 	- 2D: 1738
+	- Recursion with memoization: 139
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
@@ -241,6 +242,7 @@
 |  136| [Single Number](https://leetcode.com/problems/single-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_136.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_136.java) |  |  | Bit Manipulation |
 |  137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_137.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_137.java) |  |  | Bit Manipulation |
 |  138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Copy_138.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Copy_138.java) |  |  | Linked List |
+|  139| [Word Break](https://leetcode.com/problems/word-break/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Word_139.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Word_139.java) |  |  | DP |
 |  141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Linked_141.md) | Easy |  |  | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Linked_141.go) | Linked List |
 |  142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Linked_142.md) | Medium |  |  | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Linked_142.go) | Linked List |
 |  144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_144.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_144.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Binary_144.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Binary_144.go) | Binary Tree(Pre-order traversal) |
