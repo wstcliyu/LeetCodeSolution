@@ -79,7 +79,7 @@
 - Greedy
 	- Regular: 280, 670, 942
 - Hash Table
-	- App: 548, 697
+	- App: 548, 697, 953
 	- Design: 706(705 BST)
 	- Get Random: 380, 381
 	- Geometry: 149
@@ -399,6 +399,7 @@
 |  921| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_921.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_921.java) |  |  | Stack(Parentheses) |
 |  934| [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_934.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_934.java) |  |  | DFS, BFS |
 |  942| [DI String Match](https://leetcode.com/problems/di-string-match/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/DI_942.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/DI_942.java) |  |  | Greedy |
+|  953| [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Verifying_953.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Verifying_953.java) |  |  | Hash Table |
 |  958| [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Check_958.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Check_958.java) |  |  | Binary Tree |
 |  973| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/K_973.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/K_973.java) |  |  | Quick Select, Heap |
 |  977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Squares_977.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Squares_977.java) |  |  | Two Pointers |
