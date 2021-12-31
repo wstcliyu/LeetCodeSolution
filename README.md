@@ -9,8 +9,9 @@
 	- String: 67, 415
 	- Array: 66, 989
 - Backtrack
-	- Regular: 17, 22, 39(40), 46(47), 78(90), 216, 254
+	- Regular: 22, 39(40), 46(47), 78(90), 216, 254
 	- HashSet: 491
+	- BFS: 17, 301
 	- Count: 248, 1079
 - BFS
 	- Regular: 200, 317
@@ -289,6 +290,7 @@
 |  290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Word_290.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Word_290.java) |  |  | Pattern Match|
 |  295| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_295.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_295.java) |  |  | Priority Queue |
 |  300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_300.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_300.java) |  |  | LIS |
+|  301| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Remove_301.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Remove_301.java) |  |  | Backtrack, BFS |
 |  305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_305.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_305.java) |  |  | Union Find |
 |  310| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_310.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_310.java) |  |  | Topological Sort |
 |  314| [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_314.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_314.java) |  |  | Binary Tree |
