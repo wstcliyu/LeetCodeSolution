@@ -28,6 +28,7 @@
 	- Delete: 450
 	- Recover: 99
 	- Trim: 669
+	- Split: 776
 	- Iterator: 173, 1586
 - Binary Tree
 	- Traversal
@@ -391,6 +392,7 @@
 |  768| [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_768.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_768.java) |  |  | Trick |
 |  769| [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_769.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_769.java) |  |  | Trick |
 |  775| [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Global_775.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Global_775.java) |  |  | Math |
+|  776| [Split BST](https://leetcode.com/problems/split-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_776.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_776.java) |  |  | Binary Search Tree |
 |  785| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Is_785.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Is_785.java) |  |  | DFS, BFS |
 |  791| [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Custom_791.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Custom_791.java) |  |  | Counting Sort |
 |  792| [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_792.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_792.java) |  |  | Trick |
