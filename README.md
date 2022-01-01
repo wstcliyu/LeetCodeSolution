@@ -70,7 +70,7 @@
 - Dynamic Programming (DP)
 	- Regular: 63, 361
 	- 2D: 1738
-	- Recursion with memoization: 139, 140
+	- Recursion with memoization: 139(140, 472)
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
@@ -340,6 +340,7 @@
 |  450| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Delete_450.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Delete_450.java) |  |  | Binary Search Tree |
 |  452| [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_452.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_452.java) |  |  | Interval |
 |  470| [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Implement_470.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Implement_470.java) |  |  | Rejection Sampling |
+|  472| [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Concatenated_472.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Concatenated_472.java) |  |  | DP |
 |  478| [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Generate_478.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Generate_478.java) |  |  | Rejection Sampling |
 |  480| [Sliding Windown Median](https://leetcode.com/problems/sliding-window-median/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sliding_480.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sliding_480.java) |  |  | Priority Queue |
 |  490| [The Maze](https://leetcode.com/problems/the-maze/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/The_490.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/The_490.java) |  |  | BFS & DFS |
