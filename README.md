@@ -17,7 +17,7 @@
 	- Regular: 200, 317
 	- Topological Sort: 310
 - BFS & DFS
-	- Regular: 200, 417, 547, 733, 785, 863, 934
+	- Regular: 200, 417, 547, 733, 785, 863(Binary Tree), 934
 	- The Maze: 490, (499, 505)(Dijkstra)
 	- Jump Game: 1306, 1345
 	- Nested List Weight Sum: 339, 364
@@ -48,6 +48,8 @@
 		- 572, 606
 	- Lowest Common Ancestor (LCA)
 		- 235, 236(1676), 1123(865), 1644, 1650(160)
+	- Find Path
+		- 2096
 	- Path Sum
 		- 112
 	- Flatten
@@ -449,4 +451,5 @@
 | 1738| [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_1738.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_1738.java) |  |  | Dynamic Programming |
 | 1762| [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Buildings_1762.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Buildings_1762.java) |  |  | Mono Queue/Stack |
 | 1861| [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rotating_1861.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rotating_1861.java) |  |  | Simulation |
+| 2096| [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Step_2096.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Step_2096.java) |  |  | Binary Tree |
 | 2111| [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_2111.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_2111.java) |  |  | LIS |
