@@ -84,6 +84,8 @@
 	- Regex Match: 10, 44
 - Find Number
 	- 41, 268, 287, 442
+- Game
+	- 299, 843
 - Greedy
 	- Regular: 280, 670, 942
 - Hash Table
@@ -308,6 +310,7 @@
 |  289| [Game of Life](https://leetcode.com/problems/game-of-life/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Game_289.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Game_289.java) |  |  | Simulation |
 |  290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Word_290.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Word_290.java) |  |  | Pattern Match|
 |  295| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_295.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_295.java) |  |  | Priority Queue |
+|  299| [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Bulls_299.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Bulls_299.java) |  |  | Game |
 |  300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_300.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_300.java) |  |  | LIS |
 |  301| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Remove_301.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Remove_301.java) |  |  | Backtrack, BFS |
 |  305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_305.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_305.java) |  |  | Union Find |
