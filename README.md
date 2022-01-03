@@ -177,7 +177,7 @@
 - TreeMap
 	- App: 729, 731, 732, 1146
 - Trick
-	- 277, 792, 795
+	- 161, 277, 792, 795
 	- Max Chunks To Make Sorted: 768, 769
 - Trie
 	- Regular: 208, 211, 212, 692
@@ -267,6 +267,7 @@
 |  156| [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_156.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_156.java) |  |  | Binary Tree |
 |  159| [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_159.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_159.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_159.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_159.go) | Sliding Window(Max) |
 |  160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Intersection_160.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Intersection_160.java) |  |  | Linked List |
+|  161| [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/One_161.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/One_161.java) |  |  | Trick |
 |  163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Missing_163.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Missing_163.java) |  |  | Interval |
 |  167| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Two_167.md) | Easy |  | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Two_167.py) |  | Two Sum |
 |  170| [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Two_167.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Two_170.java) |  |  | Two Sum |
