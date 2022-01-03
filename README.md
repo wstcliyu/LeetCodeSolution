@@ -109,6 +109,7 @@
 	- Flatten: 251, 341, 430(DLL)
 	- Peeking: 284
 	- Skipping: 900
+	- Zigzag: 281
 - Linked List
 	- Cycle: 142(141)
 	- Reverse: 234(206), 92, 143
@@ -306,6 +307,7 @@
 |  272| [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Closest_272.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Closest_272.java) |  |  | Binary Search Tree |
 |  277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_277.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_277.java) |  |  | Trick |
 |  280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Wiggle_280.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Wiggle_280.java) |  |  | Greedy |
+|  281| [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Zigzag_281.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Zigzag_281.java) |  |  | Iterator |
 |  284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Peeking_284.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Peeking_284.java) |  |  | Iterator |
 |  285| [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_285.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Inorder_285.java) |  |  | Binary Search Tree |
 |  287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_287.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_287.java) |  |  | Find Number |
