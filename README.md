@@ -91,7 +91,7 @@
 - Greedy
 	- Regular: 280, 670, 942
 - Hash Table
-	- App: 548, 697, 953, 1477
+	- App: 359, 548, 697, 953, 1477
 	- Design: 706(705 BST)
 	- Get Random: 380, 381
 	- Geometry: 149
@@ -333,6 +333,7 @@
 |  341| [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Flatten_341.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Flatten_341.java) |  |  | Iterator |
 |  345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Reverse_345.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Reverse_345.java) |  |  | Two Pointers |
 |  347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Top_347.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Top_347.java) |  |  | Quick Select, Heap, TreeMap |
+|  359| [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Logger_359.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Logger_359.java) |  |  | Hash Table |
 |  360| [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sort_360.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sort_360.java) |  |  | Two Pointers |
 |  361| [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Bomb_361.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Bomb_361.java) |  |  | Dynamic Programming |
 |  364| [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Nested_364.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Nested_364.java) |  |  | BFS & DFS |
