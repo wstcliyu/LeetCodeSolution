@@ -65,6 +65,8 @@
 	- Regular: 136，137, 260, 421
 - Bitmask
 	- App: 78(90)
+- Brainteaser
+	- 2087
 - Counting Sort
 	- 791
 - Design
@@ -477,6 +479,7 @@
 | 1937| [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_1937.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_1937.java) |  |  | DP |
 | 2007| [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_2007.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_2007.java) |  |  | TreeMap |
 | 2034| [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Stock_2034.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Stock_2034.java) |  |  | TreeMap |
+| 2087| [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_2087.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_2087.java) |  |  | Brainteaser |
 | 2096| [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Step_2096.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Step_2096.java) |  |  | Binary Tree |
 | 2111| [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_2111.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_2111.java) |  |  | LIS |
 | 2122| [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Recover_2122.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Recover_2122.java) |  |  | Hash Table |
