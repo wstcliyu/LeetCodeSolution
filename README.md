@@ -179,7 +179,7 @@
 	- BFS: 310
 	- Reverse: 802
 - TreeMap
-	- App: 729, 731, 732, 1146, 2034
+	- App: 729, 731, 732, 1146, 2034, 2122(HashMap)
 	- Recover Original Array: 954, 2007
 - Trick
 	- 161, 277, 792, 795
@@ -479,3 +479,4 @@
 | 2034| [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Stock_2034.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Stock_2034.java) |  |  | TreeMap |
 | 2096| [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Step_2096.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Step_2096.java) |  |  | Binary Tree |
 | 2111| [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_2111.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_2111.java) |  |  | LIS |
+| 2122| [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Recover_2122.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Recover_2122.java) |  |  | Hash Table |
