@@ -91,7 +91,7 @@
 - Greedy
 	- Regular: 280, 670, 942
 - Hash Table
-	- App: 548, 697, 953
+	- App: 548, 697, 953, 1477
 	- Design: 706(705 BST)
 	- Get Random: 380, 381
 	- Geometry: 149
@@ -457,6 +457,7 @@
 | 1306| [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_1306.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_1306.java) |  |  | BFS, DFS |
 | 1345| [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_1345.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_1345.java) |  |  | BFS, DFS |
 | 1472| [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Design_1472.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Design_1472.java) |  |  | Linked List, Stack |
+| 1477| [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_1477.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_1477.java) |  |  | Hash Table |
 | 1514| [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Path_1514.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Path_1514.java) |  |  | Dijkstra |
 | 1554| [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Strings_1554.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Strings_1554.java) |  |  | Rolling Hash, String |
 | 1570| [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Dot_1570.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Dot_1570.java) |  |  | Two Pointers, Hash Table |
