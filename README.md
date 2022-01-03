@@ -77,7 +77,7 @@
 	- Regular: 79, 200
 	- Memoization: 329, 638
 - Dynamic Programming (DP)
-	- Regular: 63, 361, 1691
+	- Regular: 63, 361, 1691, 1937
 	- 2D: 1738
 	- Recursion with memoization: 139(140, 472)
 	- Jump Game: 45, 55
@@ -469,5 +469,6 @@
 | 1762| [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Buildings_1762.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Buildings_1762.java) |  |  | Mono Queue/Stack |
 | 1765| [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Map_1765.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Map_1765.java) |  |  | BFS |
 | 1861| [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rotating_1861.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rotating_1861.java) |  |  | Simulation |
+| 1937| [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_1937.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_1937.java) |  |  | DP |
 | 2096| [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Step_2096.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Step_2096.java) |  |  | Binary Tree |
 | 2111| [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_2111.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_2111.java) |  |  | LIS |
