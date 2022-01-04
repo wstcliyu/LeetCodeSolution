@@ -14,7 +14,7 @@
 	- BFS: 17, 301
 	- Count: 248, 1079
 - BFS
-	- Regular: 200, 317, 1293(A*), 1730, 1765
+	- Regular: 200, 286, 317, 1293(A*), 1730, 1765
 	- Topological Sort: 310
 - BFS & DFS
 	- Regular: 133(Graph), 200, 417, 547, 733, 785, 863(Binary Tree), 934
@@ -319,6 +319,7 @@
 |  281| [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Zigzag_281.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Zigzag_281.java) |  |  | Iterator |
 |  284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Peeking_284.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Peeking_284.java) |  |  | Iterator |
 |  285| [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Inorder_285.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Inorder_285.java) |  |  | Binary Search Tree |
+|  286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Walls_286.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Walls_286.java) |  |  | BFS |
 |  287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_287.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_287.java) |  |  | Find Number |
 |  289| [Game of Life](https://leetcode.com/problems/game-of-life/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Game_289.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Game_289.java) |  |  | Simulation |
 |  290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Word_290.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Word_290.java) |  |  | Pattern Match|
