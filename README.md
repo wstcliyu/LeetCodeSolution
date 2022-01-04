@@ -14,7 +14,7 @@
 	- BFS: 17, 301
 	- Count: 248, 1079
 - BFS
-	- Regular: 200, 317, 1730, 1765
+	- Regular: 200, 317, 1293(A*), 1730, 1765
 	- Topological Sort: 310
 - BFS & DFS
 	- Regular: 200, 417, 547, 733, 785, 863(Binary Tree), 934
@@ -459,6 +459,7 @@
 | 1190| [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Reverse_1190.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Reverse_1190.java) |  |  | Stack |
 | 1249| [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_1249.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_1249.java) |  |  | Stack(Parentheses) |
 | 1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Count_1277.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Count_1277.java) |  |  | DP |
+| 1293| [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_1293.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_1293.java) |  |  | BFS |
 | 1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Deepest_1302.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Deepest_1302.java) |  |  | Binary Tree |
 | 1306| [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_1306.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_1306.java) |  |  | BFS, DFS |
 | 1345| [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_1345.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_1345.java) |  |  | BFS, DFS |
