@@ -14,7 +14,7 @@
 	- BFS: 17, 301
 	- Count: 248, 1079
 - BFS
-	- Regular: 200, 317, 1765
+	- Regular: 200, 317, 1730, 1765
 	- Topological Sort: 310
 - BFS & DFS
 	- Regular: 200, 417, 547, 733, 785, 863(Binary Tree), 934
@@ -472,6 +472,7 @@
 | 1650| [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Lowest_1650.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Lowest_1650.java) |  |  | Lowest Common Ancestor |
 | 1676| [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Lowest_1676.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Lowest_1676.java) |  |  | Lowest Common Ancestor |
 | 1691| [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_1691.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_1691.java) |  |  | DP |
+| 1730| [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_1730.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_1730.java) |  |  | BFS |
 | 1738| [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_1738.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_1738.java) |  |  | Dynamic Programming |
 | 1762| [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Buildings_1762.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Buildings_1762.java) |  |  | Mono Queue/Stack |
 | 1765| [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Map_1765.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Map_1765.java) |  |  | BFS |
