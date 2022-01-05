@@ -157,7 +157,7 @@
 - Rolling Hash
 	- 1554
 - Segment Tree
-	- 731, 732
+	- 731, 732, 850
 - Simulation
 	- 73, 289, 498
 	- Rotate: 48, 189, 1861
@@ -427,6 +427,7 @@
 |  795| [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_795.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_795.java) |  |  | Trick |
 |  802| [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_802.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_802.java) |  |  | Topological Sort |
 |  843| [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Guess_843.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Guess_843.java) |  |  | Game |
+|  850| [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rectangle_850.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rectangle_850.java) |  |  | Segment Tree |
 |  856| [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Score_856.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Score_856.java) |  |  | Stack |
 |  863| [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/All_863.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/All_863.java) |  |  | DFS, BFS |
 |  865| [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Smallest_865.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Lowest_1123.java) |  |  | Lowest Common Ancestor |
