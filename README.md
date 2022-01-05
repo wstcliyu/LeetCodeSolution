@@ -141,7 +141,7 @@
 - Pattern Match
 	- 205, 290, 890, 1153(Graph)
 - Priority Queue
-	- Regular: 692
+	- Regular: 692, 767, 857
 	- Find Median: 295, 480 (PQ ~ TreeMap)
 - Quick Select
 	- Regular: 215, 347, 973
@@ -417,6 +417,7 @@
 |  733| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Flood_733.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Flood_733.java) |  |  | DFS, BFS |
 |  759| [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Employee_759.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Employee_759.java) |  |  | Interval |
 |  763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Partition_763.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Partition_763.java) |  |  | Two Pointers |
+|  767| [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Reorganize_767.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Reorganize_767.java) |  |  | Priority Queue |
 |  768| [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_768.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_768.java) |  |  | Trick |
 |  769| [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Max_769.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Max_769.java) |  |  | Trick |
 |  775| [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Global_775.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Global_775.java) |  |  | Math |
