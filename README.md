@@ -141,7 +141,7 @@
 - Pattern Match
 	- 205, 290, 890, 1153(Graph)
 - Priority Queue
-	- Regular: 692, 767, 857
+	- Regular: 692, 767, 857, 1882
 	- Find Median: 295, 480 (PQ ~ TreeMap)
 - Quick Select
 	- Regular: 215, 347, 973
@@ -496,6 +496,7 @@
 | 1765| [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Map_1765.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Map_1765.java) |  |  | BFS |
 | 1776| [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Car_1776.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Car_1776.java) |  |  | Mono Stack |
 | 1861| [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Rotating_1861.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Rotating_1861.java) |  |  | Simulation |
+| 1882| [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Process_1882.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Process_1882.java) |  |  | Priority Queue |
 | 1937| [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_1937.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_1937.java) |  |  | DP |
 | 2007| [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_2007.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_2007.java) |  |  | TreeMap |
 | 2034| [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Stock_2034.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Stock_2034.java) |  |  | TreeMap |
