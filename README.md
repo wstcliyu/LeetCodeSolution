@@ -199,7 +199,7 @@
 	- Partition: 763
 	- Squares of a Sorted Array: 360, 977
 - Two Sum
-	- Regular: 1, 167, 170, 1099
+	- Regular: 1, 42, 167, 170, 1099
 	- BST: 653
 - Union Find
 	- Regular: 305(200), 684(685)
@@ -225,6 +225,7 @@
 |   39| [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Combination_39.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Combination_39.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Combination_39.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Combination_39.go) | Backtrack |
 |   40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Combination_40.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Combination_40.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Combination_40.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Combination_40.go) | Backtrack |
 |   41| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/First_41.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/First_41.java) |  |  | Find Number |
+|   42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Trapping_42.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Trapping_42.java) |  |  | Two Pointers |
 |   44| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Wildcard_44.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Wildcard_44.java) |  |  | DP, Regex |
 |   45| [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Jump_45.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Jump_45.java) |  |  | Dynamic Programming, Greedy |
 |   46| [Permutations](https://leetcode.com/problems/permutations/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutations_46.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutations_46.java) |  |  | Backtrack |
