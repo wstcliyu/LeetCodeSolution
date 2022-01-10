@@ -141,7 +141,7 @@
 - Pattern Match
 	- 205, 290, 890, 1153(Graph)
 - Priority Queue
-	- Regular: 692, 767, 857, 1057, 1882
+	- Regular: 407, 692, 767, 857, 1057, 1882
 	- Find Median: 295, 480 (PQ ~ TreeMap)
 - Quick Select
 	- Regular: 215, 347, 973
@@ -362,6 +362,7 @@
 |  394| [Decode String](https://leetcode.com/problems/decode-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Decode_394.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Decode_394.java) |  |  | Stack |
 |  398| [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_398.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_398.java) |  |  | Reservoir Sampling |
 |  404| [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sum_404.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sum_404.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Sum_404.py) |  | Binary Tree(App: Pre-order) |
+|  407| [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Trapping_407.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Trapping_407.java) |  |  | Priority Queue |
 |  408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Valid_408.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Valid_408.java) |  |  | Two pointers |
 |  410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_410.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_410.java) |  |  | DP, Binary Search |
 |  415| [Add Strings](https://leetcode.com/problems/add-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_415.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_415.java) |  |  | Add Two Numbers |
