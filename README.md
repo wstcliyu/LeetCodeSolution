@@ -103,7 +103,7 @@
 	- Group Anagrams: 49, 249
 - Interval
 	- Merge: 56, 57
-	- Intersection: 986
+	- Intersection: 986(1272)
 	- [Max Overlap](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/IntervalMaxOverlap.java)
 	- Range Addition: 370
 	- Range Output: 163, 228
@@ -489,6 +489,7 @@
 | 1153| [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/String_1153.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/String_1153.java) |  |  | Pattern Match, Graph |
 | 1190| [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Reverse_1190.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Reverse_1190.java) |  |  | Stack |
 | 1249| [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_1249.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_1249.java) |  |  | Stack(Parentheses) |
+| 1272| [Remove Interval](https://leetcode.com/problems/remove-interval/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Remove_1272.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Remove_1272.java) |  |  | Interval |
 | 1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Count_1277.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Count_1277.java) |  |  | DP |
 | 1293| [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_1293.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_1293.java) |  |  | BFS |
 | 1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/solution/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Deepest_1302.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Deepest_1302.java) |  |  | Binary Tree |
