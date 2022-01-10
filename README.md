@@ -78,7 +78,7 @@
 - Divide and Conquer
 	- 53, 218
 - DFS
-	- Regular: 79, 200
+	- Regular: 79, 200, 947
 	- Memoization: 329, 638
 - Dynamic Programming (DP)
 	- Regular: 63, 361, 1277, 1691, 1937
@@ -202,7 +202,7 @@
 	- Regular: 1, 42, 167, 170, 1099
 	- BST: 653
 - Union Find
-	- Regular: 305(200), 684(685)
+	- Regular: 305(200), 684(685), 947
 
 
 ## Solutions
@@ -457,6 +457,7 @@
 |  921| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Minimum_921.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Minimum_921.java) |  |  | Stack(Parentheses) |
 |  934| [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Shortest_934.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Shortest_934.java) |  |  | DFS, BFS |
 |  942| [DI String Match](https://leetcode.com/problems/di-string-match/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/DI_942.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/DI_942.java) |  |  | Greedy |
+|  947| [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Most_947.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Most_947.java) |  |  | DFS, Union Find |
 |  953| [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Verifying_953.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Verifying_953.java) |  |  | Hash Table |
 |  954| [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Array_954.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Array_954.java) |  |  | TreeMap |
 |  958| [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Check_958.md) | Meidum | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Check_958.java) |  |  | Binary Tree |
