@@ -88,6 +88,7 @@
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
+	- Student Attendance Record: 552
 	- Regex Match: 10, 44
 - Find Number
 	- 41, 268, 287, 442
@@ -402,6 +403,7 @@
 |  547| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_547.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_547.java) |  |  | DFS, BFS, Union Find |
 |  548| [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_548.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_548.java) |  |  | Hash Table |
 |  551| [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Student_551.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Student_551.java) |  |  | Regex |
+|  552| [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Student_552.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Student_552.java) |  |  | DP |
 |  567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutation_567.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutation_567.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Permutation_567.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Permutation_567.go) | Sliding Window(Fixed) |
 |  572| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Subtree_572.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Subtree_572.java) |  |  | Binary Tree (Serialize/Deserialize) |
 |  583| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Delete_583.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Delete_583.java) |  |  | Dynamic Programming |
