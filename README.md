@@ -151,6 +151,9 @@
 	- 384, 519(710)
 - Recursion
 	- 95, 241, 247
+- Regex
+	- 551
+	- DP: 10, 44
 - Rejection Sampling
 	- Regualr: 470
 - Reservoir Sampling
@@ -398,6 +401,7 @@
 |  528| [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Random_528.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Random_528.java) |  |  | Random |
 |  547| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Number_547.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Number_547.java) |  |  | DFS, BFS, Union Find |
 |  548| [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_548.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_548.java) |  |  | Hash Table |
+|  551| [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Student_551.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Student_551.java) |  |  | Regex |
 |  567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Permutation_567.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Permutation_567.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Permutation_567.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Permutation_567.go) | Sliding Window(Fixed) |
 |  572| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Subtree_572.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Subtree_572.java) |  |  | Binary Tree (Serialize/Deserialize) |
 |  583| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Delete_583.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Delete_583.java) |  |  | Dynamic Programming |
