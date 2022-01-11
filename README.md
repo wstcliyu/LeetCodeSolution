@@ -88,7 +88,7 @@
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
-	- Paint House: 256
+	- Paint House(Paint Fence): 256, 276
 	- Student Attendance Record: 552
 	- Regex Match: 10, 44
 - Find Number
@@ -338,6 +338,7 @@
 |  269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Alien_269.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Alien_269.java) |  |  | Topological Sort |
 |  270| [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Closest_270.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Closest_270.java) |  |  | Binary Search Tree |
 |  272| [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Closest_272.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Closest_272.java) |  |  | Binary Search Tree |
+|  276| [Paint Fence](https://leetcode.com/problems/paint-fence/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Paint_276.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Paint_276.java) |  |  | DP |
 |  277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Find_277.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Find_277.java) |  |  | Trick |
 |  280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Wiggle_280.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Wiggle_280.java) |  |  | Greedy |
 |  281| [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Zigzag_281.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Zigzag_281.java) |  |  | Iterator |
