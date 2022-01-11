@@ -185,6 +185,8 @@
 	- Queue <-> Stack: 225, 232
 - String
 	- Distance: 161, 676, 1554(Rolling Hash)
+- Text Alignment
+	- 418
 - Topological Sort
 	- Regular: 207, 210, 269, 329, 1136
 	- BFS: 310
@@ -375,6 +377,7 @@
 |  410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Split_410.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Split_410.java) |  |  | DP, Binary Search |
 |  415| [Add Strings](https://leetcode.com/problems/add-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_415.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_415.java) |  |  | Add Two Numbers |
 |  417| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Pacific_417.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Pacific_417.java) |  |  | DFS, BFS |
+|  418| [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Sentence_418.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Sentence_418.java) |  |  | Text Alignment |
 |  421| [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Maximum_421.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Maximum_421.java) |  |  | Bit Manipulation |
 |  424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Longest_424.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Longest_424.java) | [Python](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Python/Longest_424.py) | [Go](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Go/Longest_424.go) | Sliding Window(Max) |
 |  426| [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Convert_426.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Convert_426.java) |  |  | Binary Tree, DLL, Flatten |
