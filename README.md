@@ -88,6 +88,7 @@
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
+	- Paint House: 256
 	- Student Attendance Record: 552
 	- Regex Match: 10, 44
 - Find Number
@@ -330,6 +331,7 @@
 |  249| [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Group_249.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Group_249.java) |  |  | Hash Table |
 |  253| [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Meeting_253.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Meeting_253.java) |  |  | Interval |
 |  254| [Factor Combinations](https://leetcode.com/problems/factor-combinations/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Factor_254.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Factor_254.java) |  |  | Backtrack |
+|  256| [Paint House](https://leetcode.com/problems/paint-house/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Paint_256.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Paint_256.java) |  |  | DP |
 |  257| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_257.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_257.java) |  |  | Binary Tree(App: Pre-order) |
 |  260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_260.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_260.java) |  |  | Bit Manipulation |
 |  268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Missing_268.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Missing_268.java) |  |  | Find Number |
