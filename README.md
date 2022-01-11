@@ -186,7 +186,7 @@
 - String
 	- Distance: 161, 676, 1554(Rolling Hash)
 - Text Alignment
-	- 418
+	- 68, 418
 - Topological Sort
 	- Regular: 207, 210, 269, 329, 1136
 	- BFS: 310
@@ -253,6 +253,7 @@
 |   63| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Unique_63.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Unique_63.java) |  |  | Dynamic Programming |
 |   66| [Plus One](https://leetcode.com/problems/plus-one/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Plus_66.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Plus_66.java) |  |  | Add Two Numbers |
 |   67| [Add Binary](https://leetcode.com/problems/add-binary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Add_67.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Add_67.java) |  |  | Add Two Numbers |
+|   68| [Text Justification](https://leetcode.com/problems/text-justification/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Text_68.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Text_68.java) |  |  | Text Alignment |
 |   70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Climbing_70.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Climbing_70.java) |  |  | Math |
 |   71| [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Simplify_71.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Simplify_71.java) |  |  | Stack |
 |   72| [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Edit_72.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Edit_72.java) |  |  | Dynamic Programming |
