@@ -88,7 +88,7 @@
 	- Jump Game: 45, 55
 	- Edit Distance: 72, 583, 712, 1035, 1143
 	- House Robber: 198, 213, 337
-	- Paint House(Paint Fence): 256, 276
+	- Paint House(Paint Fence): 256, 265, 276
 	- Student Attendance Record: 552
 	- Regex Match: 10, 44
 - Find Number
@@ -334,6 +334,7 @@
 |  256| [Paint House](https://leetcode.com/problems/paint-house/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Paint_256.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Paint_256.java) |  |  | DP |
 |  257| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Binary_257.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Binary_257.java) |  |  | Binary Tree(App: Pre-order) |
 |  260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Single_260.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Single_260.java) |  |  | Bit Manipulation |
+|  265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Paint_265.md) | Hard | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Paint_265.java) |  |  | DP |
 |  268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Missing_268.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Missing_268.java) |  |  | Find Number |
 |  269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Alien_269.md) | Medium | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Alien_269.java) |  |  | Topological Sort |
 |  270| [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Problem](https://github.com/wstcliyu/LeetCodeSolution/blob/main/ProblemSet/Closest_270.md) | Easy | [Java](https://github.com/wstcliyu/LeetCodeSolution/blob/main/Solution-Java/Closest_270.java) |  |  | Binary Search Tree |
