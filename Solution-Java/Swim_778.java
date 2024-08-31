@@ -33,6 +33,50 @@ class Solution {
     }
 }
 
+// 20240831: rewrite this Dijkstra algorithm (PQ+BFS) for better understandability.
+class Solution {
+    class Node implements Comparable<Node> {
+        int r, c;
+        int dist;
+        Node(int _r, int _c, int _dist) {
+            r = _r;
+            c = _c;
+            dist = _dist;
+        }
+        public int compareTo(Node that) {
+            return this.dist - that.dist;
+        }
+    }
+    public int swimInWater(int[][] grid) {
+        int n = grid.length;
+        PriorityQueue<Node> pq = new PriorityQueue<>();
+        HashSet<Integer> seen = new HashSet<>();
+        pq.add(new Node(0, 0, grid[0][0]));
+        seen.add(0);
+        
+        int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        while (!pq.isEmpty()) {
+            Node node = pq.poll();
+            if (node.r == n-1 && node.c == n-1) {
+                return node.dist;
+            }
+            for (int[] direction : directions) {
+                int r = node.r + direction[0];
+                int c = node.c + direction[1];
+                int idx = r * n + c;
+                if (r >= 0 && r < n && c >= 0 && c < n && !seen.contains(idx)) {
+                    Node cur = new Node(r, c, Integer.MAX_VALUE);
+                    int d = Math.max(grid[r][c], node.dist);
+                    cur.dist = Math.min(cur.dist, d)
+                    seen.add(idx);
+                    pq.add(cur);
+                }
+            }
+        }
+        return Integer.MAX_VALUE;
+    }
+}
+
 
 
 
